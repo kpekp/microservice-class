@@ -1,4 +1,4 @@
-# microservice-class
+microservices-class
 mine
 Velvet Cake
 
